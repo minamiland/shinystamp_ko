@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: default_jp
 title: シャイニスタンプ
 permalink: /about/jp/
 ---

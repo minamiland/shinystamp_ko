@@ -1,0 +1,84 @@
+- title: New Printer Line
+  url: new_printer_line
+  subtitle: "新規追加モデル"
+  images: "/images/new_printer_line.jpg"
+
+- title: Printer Line
+  url: printer_line
+  subtitle: "もっと使われてるモデル"
+  images: "/images/printer_line.jpg"
+
+- title: NTBac Line
+  url: ntbac_line
+  subtitle: "NTbacラインはバイ菌の匂いと作用を抑制するだけではなくカビの繁殖から製品を守ります。"
+  images: "/images/ntbac_line.jpg"
+
+- title: ECO Line
+  url: eco_line
+  subtitle: "エコラインに環境保護の為にリサイクル線維で製作されたモデルです。"
+  images: "/images/eco_line.jpg"
+
+- title: Handy Stamp
+  url: handy_stamp
+  subtitle: "携帯が可能なスタンプモデル"
+  images: "/images/handy_stamp.jpg"
+
+- title: Heavy
+  url: heavy_metal
+  subtitle: "プールサイズのソフトなモデルです"
+  images: "/images/essential_line.jpg"
+
+- title: Essential
+  url: essential_line
+  subtitle: "プールサイズのソフトなモデルです"
+  images: "/images/essential_line.jpg"
+
+- title: DUO
+  url: duo_line
+  subtitle: "多様な大きさのゴムスタンプです。"
+  images: "/images/duo_line.jpg"
+
+- title: Embossing Seal
+  url: embossing_seal
+  subtitle: " エンボーシン処理が可能なスタンプです"
+  images: "/images/embossing_seal.jpg"
+
+- title: Textile Labeling Kit
+  url: testile_labeling_kit
+  subtitle: "服と個人の所持品などに使えます。"
+  images: "/images/testile_labeling_kit.jpg"
+
+- title: Personal Seal
+  url: personal_seal
+  subtitle: "個人的なシールを押せる印です。"
+  images: "/images/personal_seal.jpg"
+
+- title: Eminent Line
+  url: eminent_line
+  subtitle: "万年印携帯のプラットフォームスタイルのpre_inkタイプです。"
+  images: "/images/eminent_line.jpg"
+
+- title: OA Pre-Inked Stamp
+  url: oa_preinked_stamp
+  subtitle: "事務用文字が使えるスタンプです。"
+  images: "/images/oa_preinked_stamp.jpg"
+
+- title: DIY Kit
+  url: diy_kit
+  subtitle: "英文文字を組み合わせて仕様が可能です。"
+  images: "/images/diy_kit.jpg"
+
+- title: Date Stamp / Number
+  url: date_stamp
+  subtitle: "日日、数字を押せられるスタンプです。"
+  images: "/images/die_plate_dater.jpg"
+
+- title: Pad
+  url: pad
+  subtitle: "専用のパッドです。"
+  images: "/images/pad_line.jpg"
+
+- title: Ink
+  url: ink
+  subtitle: "専用のインクです。"
+  images: "/images/ink_line.jpg"

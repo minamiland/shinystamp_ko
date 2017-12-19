@@ -1,7 +1,9 @@
 ---
 # 일본어 사이트, 메인 페이지
-layout: default_jp
+layout: japan
 permalink: /jp/
 ---
 
-일본어 사이트
+日本語サイト
+
+<!-- 상품 목록처리 -->
